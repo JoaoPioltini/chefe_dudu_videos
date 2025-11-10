@@ -1,4 +1,5 @@
 # chefe_dudu_videos
 
-https://github.com/user-attachments/assets/139460d8-6659-47cf-a196-418c1adfa77d
 
+
+![1_1](https://github.com/user-attachments/assets/bc2e1404-4638-43ef-b5e3-9ce307969ce4)
