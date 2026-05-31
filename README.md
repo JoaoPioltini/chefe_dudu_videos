@@ -1,5 +1,11 @@
-# chefe_dudu_videos
+#  Naco Videos 🎥
 
+Repositório utilizado para armazenar e disponibilizar os vídeos consumidos pelo aplicativo Naco. Os arquivos são hospedados no GitHub e acessados remotamente pelo app para exibição das receitas e conteúdos educacionais.
 
+## Objetivo
 
-![1_1](https://github.com/user-attachments/assets/bc2e1404-4638-43ef-b5e3-9ce307969ce4)
+Centralizar e facilitar o gerenciamento dos vídeos utilizados pela aplicação, permitindo atualizações de conteúdo sem a necessidade de publicar uma nova versão do aplicativo.
+
+## Projeto Relacionado
+
+ Naco — Aplicativo de culinária acessível desenvolvido em SwiftUI.
